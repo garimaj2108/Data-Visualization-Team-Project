@@ -1,5 +1,5 @@
 # *Is it worth living in San Francisco?*
-![San Francisco Skyline](https://upload.wikimedia.org/wikipedia/en/f/fa/DramaticSFskyline2017.jpg)
+![San Francisco Skyline](https://cdn.photographylife.com/wp-content/uploads/2015/04/Twin-Peaks.jpg)
 
 *P.S: Image is free to use*
 
