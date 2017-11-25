@@ -17,13 +17,17 @@
 
 ## Project Outline 
 
-This project highlights the "Gun Violence issue plaguing America. The country is gridlocked into a heated debate over whether Gun Control Saves Lives OR Gun Control does not have any significant impact on saving lives. I am trying to provide a small insight on this heated topic through comparitive analysis of data via visualizations. 
+In this project, we are comparing three great cities San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city provides value for money. Of course we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living against the perks of being in a city which is hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco?".
 
-## Project Motivation - Why I chose this topic ?
+## Project Motivation - Why we chose this topic ?
 
-The entire nation is currently mourning the Las Vegas and Texas mass shooting tragedies. Being an immigrant in America, the wide Gun use has always fascinated me. I thought this assignment to be a perfect opportunity to check two sides to a story. The nation seems to be divided in their opinion on Gun violence and I thought this would give me the perfect opportunity to explore a data visualization and its rebuttal.
+San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide. Those who live there constantly tout its virtues to their friends in an effort to make them jealous and it is no secret that San Francisco is one of America’s most vital cultural hubs. With so much to see and do, there is very little reason not to move to “The City”, right?
 
-For this assignment I am using the same data to magically pull two contrasting arguments, one that supports Stricter Gun Laws and correlates them with lesser Gun Death Rates and then an equally opposing argument where the same data displays a weak correlation between Stricter Gun Laws and Gun Death Rates.
+As with any other major life decision you are going to make, there are advantages and disadvantages. Just because San Francisco ranks highly on the list of cities that a person “should” move to, this does not mean that it is the right choice. 
+
+For this assignment, we are using couple of datasets to determine "Is it worth living in San Francisco?". These datasets include Home purchase prices, Rental prices, Transportation prices, Salaries and Job opportunities. We are comparing these datasets across three popular cities, to give us a better insight into the value for money factor on these cities.
+
+(Write up intercepts from: https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/)
 
 ## Audience Needs
 
