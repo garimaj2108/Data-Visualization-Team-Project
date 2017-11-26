@@ -13,6 +13,13 @@
   Reference Links for Data: 
   
   #### Video Link
+  
+  #### Team Members :bow: :wave:
+  - Agasthya 
+  - Garima Jain
+  - Nandini Rajeswaran
+  - Nishant Singh
+  - Neha Pawar
 
 
 ## Project Outline 
