@@ -31,21 +31,19 @@ For this assignment, we are using couple of datasets to determine "Is it worth l
 
 ## Audience Needs
 
-Any American can rattle off a list of cities that have been scarred by Gun violence: Las Vegas, Sutherland Springs, Orlando, San Bernardino, Colorado Springs …. That doesn’t even take into account the thousands Americans killed by guns in single-death murders, or the roughly 21,000 who take their own lives with firearms annually.
-
-Today all Americans want is a way to stop the Gun Violence madness. And these visualizations aim at giving Americans an insight into whether the current steps being taken to reduce Gun Violence are effective or not.
-(P.S: Current steps beings are taken to make Gun Laws strict / enforce Gun Control)
+San Francisco residents have been frustrated with the traffic situation, ever increasing rent and home purchase prices and the high cost of living. They need to understand whether this high maintainence lifestyle of living in San Francisco is justified when compared on different parameters with other equally popular cities. What does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about their future.
 
 ## Audience Wants
 
-Americans would ideally want the flexibility to purchase firearms without any background checks or additional gun laws, But they also want access to firearms without having to worry about increasing Gun Violence.
+San Francisco residents would ideally want to live here, but with minimum traffic woes, a solution to the housing crisis, lower cost of living and great job opportunities. This wishlist is not that difficult to achieve if the government focuses on improving public transport, mission more housing construction, provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower rent prices.
 
 ## Audience Fears
 
-- Not enough laws / well thought laws to protect people against Gun violence 
-- Not enough background checks / No background checks while issuing guns
-- Loss of life due to homicides or mass shootings by people who get unsolicited access to Guns
-- Continued Gun Violence despite stricter laws
+- Traffic situation to get worse, no one likes being stuck in traffic for hours
+- Home purchase prices rising higher
+- Rentals getting more expensive than they currently are
+- Exciting job opportunities would not be able to match up to the rising costs of living in the city
+- An upward trend in the costs of living
 
 ## Metrics
 
