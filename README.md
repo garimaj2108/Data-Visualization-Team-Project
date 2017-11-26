@@ -14,7 +14,7 @@
   
   #### Video Link
   
-  #### Team Members :bow: :wave:
+  #### Team Members :wave: :bow:
   - Agasthya 
   - Garima Jain
   - Nandini Rajeswaran
