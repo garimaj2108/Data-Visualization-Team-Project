@@ -1,6 +1,5 @@
 # *Which city should you move to?*
-https://upload.wikimedia.org/wikipedia/commons/8/8d/New_York_NYC.jpg
-https://c1.staticflickr.com/4/3807/14270818136_2eb320ae8d_b.jpg
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/New_York_NYC.jpg" width="200" height="150"/> <img src="https://c1.staticflickr.com/4/3807/14270818136_2eb320ae8d_b.jpg" width="200" height="150"/> <img src="https://c1.staticflickr.com/3/2779/4460410883_fda67dd573_b.jpg" width="200" height="150"/> 
 
 *P.S: Image is free to use*
 
