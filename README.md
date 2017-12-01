@@ -147,7 +147,7 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 **What's bad about this Visual:**
 
 * Firstly, the visual is confusing because it has the same colours for the three cities
-* Secondly, the visual takes in the average median price for all the different kinds of homes such as condos, villas, mansions, different kinds of apartment etc., so we don't get the true price as home buying value should be classified into different categories 
+* Secondly, the visual metrics average housing price with cities does not qualify as a concrete visual to bolster the claim.
 * Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc.
 
 ******************************************************************************************************************************
