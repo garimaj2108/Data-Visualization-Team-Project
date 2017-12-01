@@ -147,8 +147,9 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 **What's bad about this Visual:**
 
 * Firstly, the visual is confusing because it has the same colours for the three cities
-* Secondly, the visual metrics average housing price with cities does not qualify as a concrete visual to bolster the claim.
+* Secondly, the visual metrics average housing price vs cities isn't enough evidence to bolster the claim.
 * Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc.
+
 
 ******************************************************************************************************************************
 
@@ -159,7 +160,16 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 **What's good about this Visual:**
 
+* The visual represents price to rent ratio vs the 3 cities in question, and as we can see Price to rent ratio is almost the same for New York and San Francisco and very low for Austin 
+* The Price to rent ratio metric is an important metric to answer if it's feasible to buy a house 
+* Higher the Price and rent ratio the better it is to rent a house than buying
+
 **What's bad about this Visual:**
+
+* How do we compare this model on a national scale 
+* The visual does not need to display the zero value 
+
+
 
 ******************************************************************************************************************************
 
@@ -168,10 +178,17 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 ![sheet 6](https://user-images.githubusercontent.com/25557540/33503227-ce1f6582-d697-11e7-8ebc-b4bb9c36a25d.png)
 
 
+
 **What's good about this Visual:**
+
+* This Visual has the US national average to compare these cities and as we can see all of them have above average so any of the city that an audience decides to live the quality of life would be good
+* The scale has been adjusted to adjust data to viz ratio
+* The visual supports the  claim mentioned in title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high 
 
 **What's bad about this Visual:**
 
+* This visual itself is complete but how does this is going to relate to final claim should be easy to understand for an audience 
+* The visual can be more interactive to indulge the audience 
 
 
 ******************************************************************************************************************************
