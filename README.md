@@ -134,35 +134,43 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 ## Intermediate Visualization:
 
-**Visual 1:* 
+**Visual 1:** 
 
 ![sheet 4](https://user-images.githubusercontent.com/25557540/33503214-c2ebadce-d697-11e7-82b6-270fed413f52.png)
 
 **What's good about this Visual:**
 
-**What's good about this Visual:**
+* This visual represents average median price for buying a house in the three cities 
+* From the visual, it's clear that living in San Fransico is a luxury that not all people can afford and in Austin, you buy a good property for a cheap price
+* New York, on the other hand, is between the two cities 
+
+**What's bad about this Visual:**
+
+* Firstly, the visual is confusing because it has the same colours for the three cities
+* Secondly, the visual takes in the average median price for all the different kinds of homes such as condos, villas, mansions, different kinds of apartment etc., so we don't get the true price as home buying value should be classified into different categories 
+* Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc.
 
 ******************************************************************************************************************************
 
-**Visual 2:* 
+**Visual 2:** 
 
 ![sheet 4](https://user-images.githubusercontent.com/25557540/33503222-c8efa91e-d697-11e7-8800-838754e94dde.png)
 
 
 **What's good about this Visual:**
 
-**What's good about this Visual:**
+**What's bad about this Visual:**
 
 ******************************************************************************************************************************
 
-**Visual 3:* 
+**Visual 3:** 
 
 ![sheet 6](https://user-images.githubusercontent.com/25557540/33503227-ce1f6582-d697-11e7-8ebc-b4bb9c36a25d.png)
 
 
 **What's good about this Visual:**
 
-**What's good about this Visual:**
+**What's bad about this Visual:**
 
 
 
