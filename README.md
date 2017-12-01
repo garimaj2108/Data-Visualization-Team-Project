@@ -106,6 +106,7 @@ Hence, the claim that Gun Control Saves lives is questionable in nature.
 
 ******************************************************************************************************************************
 ## How I went about creating visualizations that support both the original claim and its rebuttal.
+
 America has been struggling with Gun Violence issue for a really long time, So when President Obama emphasized on Stricter Laws for Firearms purchase, it raised a heated debate over the country and since then there have been multiple attempts at determining whether Stricter Laws dissuade or reduce Gun Violence.
 
 To present my take on this matter I followed the below steps:
@@ -126,6 +127,22 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 - For this, I compared and contrasted Gun Law Rank vs Gun Death Rank and Gun Law Rank vs Number of deaths by Gun for a take on whether stricter gun laws reduce gun violence or not
 - Similarly, next I compared and contrasted Gun Law Grade vs Gun Death Rank and Gun Law Grade vs Number of deaths
 - Added all the visualizations to a story and published it
+
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+
+## Intermediate Visualization:
+
+**Visual 1:* 
+
+![sheet 4](https://user-images.githubusercontent.com/25557540/33503214-c2ebadce-d697-11e7-82b6-270fed413f52.png)
+
+![sheet 4](https://user-images.githubusercontent.com/25557540/33503222-c8efa91e-d697-11e7-8800-838754e94dde.png)
+
+![sheet 6](https://user-images.githubusercontent.com/25557540/33503227-ce1f6582-d697-11e7-8ebc-b4bb9c36a25d.png)
+
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
