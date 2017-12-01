@@ -138,9 +138,31 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 ![sheet 4](https://user-images.githubusercontent.com/25557540/33503214-c2ebadce-d697-11e7-82b6-270fed413f52.png)
 
+**What's good about this Visual:**
+
+**What's good about this Visual:**
+
+******************************************************************************************************************************
+
+**Visual 2:* 
+
 ![sheet 4](https://user-images.githubusercontent.com/25557540/33503222-c8efa91e-d697-11e7-8800-838754e94dde.png)
 
+
+**What's good about this Visual:**
+
+**What's good about this Visual:**
+
+******************************************************************************************************************************
+
+**Visual 3:* 
+
 ![sheet 6](https://user-images.githubusercontent.com/25557540/33503227-ce1f6582-d697-11e7-8ebc-b4bb9c36a25d.png)
+
+
+**What's good about this Visual:**
+
+**What's good about this Visual:**
 
 
 
