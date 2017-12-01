@@ -71,11 +71,7 @@ San Francisco residents would ideally want to live here, but with minimum traffi
 
 ## Metrics
 
-******************************************************************************************************************************
-
 #### The goal of these metrics are to provide insights into correlation between stricter gun laws and gun related deaths.
-
-******************************************************************************************************************************
 
 #### Why these metrics ?
 To successfully be able support or refute my claim on Gun control, I felt that analysis of Gun Law grades or Ranks and their respective death rates would help shed insights on the nature of relationship between Gun Control and Death Rates.
