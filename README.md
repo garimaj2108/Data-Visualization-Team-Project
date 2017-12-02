@@ -134,7 +134,7 @@ Follow us: Investopedia on Facebook
 
 ******************************************************************************************************************************
 
-## How I went about creating visualizations that support both the original claim and its rebuttal.
+## How we went about creating the visualizations
 To Buy or Where to buy is such a huge dilemma for every potential home buyer and living in San Francisco does not make it any easier. So to decide whether San Francisco is the place to be or should one move to any other iconic or upcoming cities.
 
 To present our take on this matter we have followed the below steps:
