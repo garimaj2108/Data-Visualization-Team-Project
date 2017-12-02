@@ -251,10 +251,12 @@ In the fourth iteration, I have created two dashboards, one that supports my ori
 
 ## Road map for future 
 
-**Improvement:** Growth rate per job for all categories instead of single growth rate city wide 
+**Improvement:**  Growth rate per job for all categories instead of single growth rate city wide 
 * Benefit- This would help the audience  analyze cities on a much realistic scale 
+
 **Improvement:** Include the tax rates and mortagage values data 
 * Benefit- This makes the visual rally interestinga and applicable in the real world
+
 **Improvement:** 
 * Benefit-
 
