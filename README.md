@@ -198,16 +198,17 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 ![intermediate](https://user-images.githubusercontent.com/25557540/33509372-d5e6fd84-d6b5-11e7-9684-b880eca18ee7.png)
 
-
 **What's good about this Visual:**
 
-* The visual is between the squarefeet a job category can buy vs the salary he/she gets in all the three states, which looks intriguing 
-*  The visual has double axis to better repsent the data vs viz ratio as it gives more information in a single visual
-* 
-
+* The visual is between the square feet a job category can buy vs the salary he/she gets in all the three states, which looks intriguing 
+*  The visual has double axis to better represent the data vs viz ratio as it gives more information in a single visual
+*  The dots show a job category in different cities, their  salary and the amount of land a person working in that job category can buy 
 
 **What's bad about this Visual:**
 
+* Having dual   axis in a visual can be confusing and misleading
+* the Audience has to actually look at visual properly to match the salary with the square feet they can buy 
+* An audience would also like to compare and contrast the SF premium which is what is hyped today 
 
 **Visual 5:** 
 
