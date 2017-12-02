@@ -165,9 +165,6 @@ To present our take on this matter we have followed the below steps:
 
 ## Visualization in the making
 
-The shootings of Las Vegas and Texas were still fresh in my mind, hence all I could think of when I started developing my visualization was scouring for mass shooting data, and of course it wasn't too difficult to find the data.
-
-In my first iteration I am comparing the data of number of people killed in mass shooting from 2015 - 2017.
 https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration1/Story1?publish=yes
 
 After this I was at an impasse as to how do I use this data to not only make a claim but a fitting rebuttal to the claim. As a result I started exploring more articles on Gun killings and Gun control. This is where I realized that the Gun control argument will give me the opportunity to make two distinct claims, so I decided to not restrict my scope to just people killed in mass shooting but include a comprehensive data of people killed by gun, whether it was homicide or suicide or accidental death.
