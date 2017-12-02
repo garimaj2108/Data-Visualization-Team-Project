@@ -1,7 +1,7 @@
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
-# *Which city should you move to?*
+# *Which city is better for buying a Home?*
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/New_York_NYC.jpg" width="292" height="215"/> <img src="https://c1.staticflickr.com/4/3807/14270818136_2eb320ae8d_b.jpg" width="292" height="215"/> <img src="https://c1.staticflickr.com/3/2779/4460410883_fda67dd573_b.jpg" width="292" height="215"/> 
 
 *P.S: Image is free to use*
@@ -31,41 +31,53 @@
 
 ## Project Outline 
 
-In this project, we are comparing three great cities San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city provides value for money. Of course we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living against the perks of being in a city which is hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco?".
+In this project, we are comparing three great cities San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city from these provides not only the great perks mentioned above, but affordable housing as well. Of course we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living and housing against the perks of being in a city which is hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco or is there a better city out there which provides all the perks of living in SF.".
 
 ************************************************************************************************************************************************************************************************************************************************************
 
 ## Project Motivation - Why we chose this topic ?
 
-San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide. Those who live there constantly tout its virtues to their friends in an effort to make them jealous and it is no secret that San Francisco is one of America’s most vital cultural hubs. With so much to see and do, there is very little reason not to move to “The City”, right?
+Buying a home has always been a sign of growing up and living the American dream, on a more practical note, its about  creating an investment that one can bank on in bad times. But the rising cost of housing in San Francisco has made it difficult for Millenials to purchase homes. The current average prices of homes in San Francisco are approximately $850,000.
 
-As with any other major life decision you are going to make, there are advantages and disadvantages. Just because San Francisco ranks highly on the list of cities that a person “should” move to, this does not mean that it is the right choice. 
+With purchase prices hitting roof, we decided to determine which city is best to live in by comparing the shining bastion of the west, 'San Francisco' against concrete jungle where dreams are made, 'New York' and the upcoming wananbe San Francisco, 'Austin'. 
 
-For this assignment, we are using couple of datasets to determine "Is it worth living in San Francisco?". These datasets include Home purchase prices, Rental prices, Transportation prices, Salaries and Job opportunities. We are comparing these datasets across three popular cities, to give us a better insight into the value for money factor on these cities.
+Why we decided to compare San Francisco, New York and Austin?
+Some of the key features that people look while purchasing homes are covered by these 3 iconic cities and hence we decided to compare and contrast them to derive insights to support our claim. 
 
-(Write up intercepts from: https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/)
+- SF, NY and Austin offer plethora of job opportunities ranging from Arts to Tech
+- The all have great food, nightlife and theatre scene
+- They embrace diversity
+
+
+We wanted to determine if there is a city that will be a close match to San Francisco (no two cities can be the same), hence 
+for this assignment, we have used the following datasets to derive insightful metrics for our final claim "Which city is better for buying a Home?" 
+
+The datasets for these cities include:
+Average Home purchase price for last 8 years
+Citywise Occupation Area and their salaries
+Citywise Per sq ft prices for Home purchase
+
+(Write up excerpts from: )
 
 ************************************************************************************************************************************************************************************************************************************************************
 
 ## Audience Needs
 
-San Francisco residents have been frustrated with the traffic situation, ever increasing rent and home purchase prices and the high cost of living. They need to understand whether this high maintainence lifestyle of living in San Francisco is justified when compared on different parameters with other equally popular cities. What does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about their future.
+Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision a easy one. The audience wants a housing affordability comparitive analysis between popular cities having similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
 
 ******************************************************************************************************************************
 
 ## Audience Wants
 
-San Francisco residents would ideally want to live here, but with minimum traffic woes, a solution to the housing crisis, lower cost of living and great job opportunities. This wishlist is not that difficult to achieve if the government focuses on improving public transport, mission more housing construction, provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower rent prices.
+San Francisco residents would ideally want to live here, but with a solution to the housing crisis. Currently there is a huge demand to supply gap in the housing market and the the prices are sky high. This wishlist is not that difficult to achieve if the government focuses on missioning more housing construction and provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower purchase prices and increased home inventory.
 
 ******************************************************************************************************************************
 
 ## Audience Fears
 
-- Traffic situation to get worse, no one likes being stuck in traffic for hours
-- Home purchase prices rising higher
-- Rentals getting more expensive than they currently are
-- Exciting job opportunities would not be able to match up to the rising costs of living in the city
-- An upward trend in the costs of living
+- Home purchase prices increasing further
+- Increased competition for available homes
+- Decreasing trend of home inventory
 
 ************************************************************************************************************************************************************************************************************************************************************
 
@@ -106,7 +118,6 @@ Hence, the claim that Gun Control Saves lives is questionable in nature.
 
 ******************************************************************************************************************************
 ## How I went about creating visualizations that support both the original claim and its rebuttal.
-
 America has been struggling with Gun Violence issue for a really long time, So when President Obama emphasized on Stricter Laws for Firearms purchase, it raised a heated debate over the country and since then there have been multiple attempts at determining whether Stricter Laws dissuade or reduce Gun Violence.
 
 To present my take on this matter I followed the below steps:
@@ -127,69 +138,6 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 - For this, I compared and contrasted Gun Law Rank vs Gun Death Rank and Gun Law Rank vs Number of deaths by Gun for a take on whether stricter gun laws reduce gun violence or not
 - Similarly, next I compared and contrasted Gun Law Grade vs Gun Death Rank and Gun Law Grade vs Number of deaths
 - Added all the visualizations to a story and published it
-
-******************************************************************************************************************************
-******************************************************************************************************************************
-
-
-## Intermediate Visualization:
-
-**Visual 1:** 
-
-![sheet 4](https://user-images.githubusercontent.com/25557540/33503214-c2ebadce-d697-11e7-82b6-270fed413f52.png)
-
-**What's good about this Visual:**
-
-* This visual represents average median price for buying a house in the three cities 
-* From the visual, it's clear that living in San Fransico is a luxury that not all people can afford and in Austin, you buy a good property for a cheap price
-* New York, on the other hand, is between the two cities 
-
-**What's bad about this Visual:**
-
-* Firstly, the visual is confusing because it has the same colours for the three cities
-* Secondly, the visual metrics average housing price vs cities isn't enough evidence to bolster the claim.
-* Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc.
-
-
-******************************************************************************************************************************
-
-**Visual 2:** 
-
-![sheet 4](https://user-images.githubusercontent.com/25557540/33503222-c8efa91e-d697-11e7-8800-838754e94dde.png)
-
-
-**What's good about this Visual:**
-
-* The visual represents price to rent ratio vs the 3 cities in question, and as we can see Price to rent ratio is almost the same for New York and San Francisco and very low for Austin 
-* The Price to rent ratio metric is an important metric to answer if it's feasible to buy a house 
-* Higher the Price and rent ratio the better it is to rent a house than buying
-
-**What's bad about this Visual:**
-
-* How do we compare this model on a national scale 
-* The visual does not need to display the zero value 
-
-
-
-******************************************************************************************************************************
-
-**Visual 3:** 
-
-![sheet 6](https://user-images.githubusercontent.com/25557540/33503227-ce1f6582-d697-11e7-8ebc-b4bb9c36a25d.png)
-
-
-
-**What's good about this Visual:**
-
-* This Visual has the US national average to compare these cities and as we can see all of them have above average so any of the city that an audience decides to live the quality of life would be good
-* The scale has been adjusted to adjust data to viz ratio
-* The visual supports the  claim mentioned in title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high 
-
-**What's bad about this Visual:**
-
-* This visual itself is complete but how does this is going to relate to final claim should be easy to understand for an audience 
-* The visual can be more interactive to indulge the audience 
-
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
