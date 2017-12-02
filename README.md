@@ -216,19 +216,17 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 <img width="800" alt="intermediate2" src="https://user-images.githubusercontent.com/25557540/33509375-dc32f03a-d6b5-11e7-93a3-f9f69e8c3da5.png">
 
-
 **What's good about this Visual:**
 
-* This visual is telling an audience what amount they need to earn to buy x amount of squarefeet in the three states 
-* The visual shows a clear trend making aour claim strong that buying a property in SF with all the expenses that comes with it is not worth it.
-* This intermediate visual if integrated with other visual could be used to make an interactive and persuassive visual
+* This visual is telling an audience what amount they need to earn to buy x amount of square feet in the three states 
+* The visual shows a clear trend making the  claim strong that buying a property in SF with all the expenses that come with it is not worth it.
+* This intermediate visual, if integrated with other visual, could be used to make an interactive and persuasive visual
 
 
 **What's bad about this Visual:**
 
-* The axis dosent make sense, it should be inverted to better represents the findings 
-* The zero axis doesnt make sense here as well
-* Its just not complete 
+* The axis doesn't make sense, it should be inverted to better represents the findings 
+* The zero axis doesn't make sense here as well
 
 
 ******************************************************************************************************************************
