@@ -257,8 +257,12 @@ In the fourth iteration, I have created two dashboards, one that supports my ori
 **Improvement:** Include the tax rates and mortagage values data 
 * Benefit- This makes the visual rally interestinga and applicable in the real world
 
-**Improvement:** 
+**Improvement:** Plot a dimensional graph graph salary, square feet per salary , job designation for the 3 cities 
+
+![whatsapp image 2017-12-01 at 7 36 00 pm](https://user-images.githubusercontent.com/25557540/33511406-1f75de20-d6cf-11e7-836e-09265278c461.jpeg)
+
 * Benefit-
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
