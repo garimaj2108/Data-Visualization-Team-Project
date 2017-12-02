@@ -155,6 +155,7 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 **Visual 2:** 
 
+
 ![sheet 4](https://user-images.githubusercontent.com/25557540/33503222-c8efa91e-d697-11e7-8800-838754e94dde.png)
 
 
@@ -218,10 +219,16 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 **What's good about this Visual:**
 
+* This visual is telling an audience what amount they need to earn to buy x amount of squarefeet in the three states 
+* The visual shows a clear trend making aour claim strong that buying a property in SF with all the expenses that comes with it is not worth it.
+* This intermediate visual if integrated with other visual could be used to make an interactive and persuassive visual
+
 
 **What's bad about this Visual:**
 
-
+* The axis dosent make sense, it should be inverted to better represents the findings 
+* The zero axis doesnt make sense here as well
+* Its just not complete 
 
 
 ******************************************************************************************************************************
