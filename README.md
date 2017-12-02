@@ -192,6 +192,38 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 
 ******************************************************************************************************************************
+
+**Visual 4:** 
+
+
+![intermediate](https://user-images.githubusercontent.com/25557540/33509372-d5e6fd84-d6b5-11e7-9684-b880eca18ee7.png)
+
+
+**What's good about this Visual:**
+
+* The visual is between the squarefeet a job category can buy vs the salary he/she gets in all the three states, which looks intriguing 
+*  The visual has double axis to better repsent the data vs viz ratio as it gives more information in a single visual
+* 
+
+
+**What's bad about this Visual:**
+
+
+**Visual 5:** 
+
+
+<img width="800" alt="intermediate2" src="https://user-images.githubusercontent.com/25557540/33509375-dc32f03a-d6b5-11e7-93a3-f9f69e8c3da5.png">
+
+
+**What's good about this Visual:**
+
+
+**What's bad about this Visual:**
+
+
+
+
+******************************************************************************************************************************
 ******************************************************************************************************************************
 
 ## Visualization in the making
