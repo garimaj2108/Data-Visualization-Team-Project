@@ -136,7 +136,7 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 **Visual 1:** 
 
-![sheet 4](https://user-images.githubusercontent.com/25557540/33503214-c2ebadce-d697-11e7-82b6-270fed413f52.png)
+<img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://user-images.githubusercontent.com/25557540/33511882-3dba5dde-d6d9-11e7-8780-9ee7cdf165a2.png">
 
 **What's good about this Visual:**
 
@@ -155,7 +155,7 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 **Visual 2:** 
 
-![sheet 5](https://user-images.githubusercontent.com/25557540/33506781-226a4658-d6a6-11e7-9dfa-6252c7270d61.png)
+<img width="401" alt="screen shot 2017-12-01 at 8 49 26 pm" src="https://user-images.githubusercontent.com/25557540/33511883-44186a68-d6d9-11e7-90e4-042242b15aa8.png">
 
 
 **What's good about this Visual:**
