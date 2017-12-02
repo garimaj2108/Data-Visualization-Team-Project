@@ -263,7 +263,7 @@ In the fourth iteration, I have created two dashboards, one that supports my ori
 
 * Benefit- Dimensional graph and Flipping the axis,  can indulge an audience to explore more in the visualization as they can go an select their city and see what part of the graph they fall
 
-*Improvement:** Develop more actionable insights from new data to integrated with this visual 
+**Improvement:** Develop more actionable insights from new data to integrated with this visual 
 
 * Benefit- Actionable insights such as growth of different job sectors over the years comparison of tech jobs will bolster the claim more 
 
