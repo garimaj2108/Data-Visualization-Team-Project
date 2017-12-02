@@ -141,22 +141,21 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 **What's good about this Visual:**
 
 * This visual represents average median price for buying a house in the three cities 
-* From the visual, it's clear that living in San Fransico is a luxury that not all people can afford and in Austin, you buy a good property for a cheap price
+* From the visual, it's clear that living in San Fransico is a luxury that not all people can afford and in Austin, you can buy a good property for a cheap price
 * New York, on the other hand, is between the two cities 
 
 **What's bad about this Visual:**
 
 * Firstly, the visual is confusing because it has the same colours for the three cities
-* Secondly, the visual metrics average housing price vs cities isn't enough evidence to bolster the claim.
-* Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc.
+* Secondly, the visual metric average housing price vs cities isn't enough evidence to bolster the claim
+* Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc
 
 
 ******************************************************************************************************************************
 
 **Visual 2:** 
 
-
-![sheet 4](https://user-images.githubusercontent.com/25557540/33503222-c8efa91e-d697-11e7-8800-838754e94dde.png)
+![sheet 5](https://user-images.githubusercontent.com/25557540/33506781-226a4658-d6a6-11e7-9dfa-6252c7270d61.png)
 
 
 **What's good about this Visual:**
