@@ -267,13 +267,13 @@ In the fourth iteration, I have created two dashboards, one that supports my ori
 
 * Benefit- Actionable insights such as growth of different job sectors over the years comparison of tech jobs will bolster the claim more 
 
-**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities  
+**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities etc.   
 
 * Benefit- These are the conditions people take into factor in choosing a place to live 
 
 **Improvement:** Include the cost for more than one adult 
 
-* Benefit- Using calculation for more than one adult can formulate a better visual which can actually help an audience if he is actually considering to move any of these cities 
+* Benefit- Using calculation for more than one adult can formulate a better visual which can actually help an audience as the majority of the population in the states has some form of family and  a big part of the discussion is "Will I be able to better support my family if I move to this place?"
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
