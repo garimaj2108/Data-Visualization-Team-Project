@@ -31,17 +31,18 @@
 
 ## Project Outline 
 
-In this project, we are comparing three great cities San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city from these provides not only the great perks mentioned above, but affordable housing as well. Of course we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living and housing against the perks of being in a city which is hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco or is there a better city out there which provides all the perks of living in SF.".
+
+In this project, we are comparing three great cities San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city from these provides not only the great perks mentioned above but affordable housing as well. Of course, we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living and housing against the perks of being in a city which is the hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco or is there a better city out there which provides all the perks of living in SF."
 
 ************************************************************************************************************************************************************************************************************************************************************
 
 ## Project Motivation - Why we chose this topic ?
 
-Buying a home has always been a sign of growing up and living the American dream, on a more practical note, its about  creating an investment that one can bank on in bad times. But the rising cost of housing in San Francisco has made it difficult for Millenials to purchase homes. The current average prices of homes in San Francisco are approximately $850,000.
+Buying a home has always been a sign of growing up and living the American dream, on a more practical note, its about creating an investment that one can bank on in bad times. But the rising cost of housing in San Francisco has made it difficult for Millenials to purchase homes. The current average prices of homes in San Francisco are approximately $850,000.
 
-With purchase prices hitting roof, we decided to determine which city is best to live in by comparing the shining bastion of the west, 'San Francisco' against concrete jungle where dreams are made, 'New York' and the upcoming wananbe San Francisco, 'Austin'. 
+With purchase prices hitting the roof, we decided to determine which city is best to live in by comparing the shining bastion of the west, 'San Francisco' against concrete jungle where dreams are made, 'New York' and the upcoming wannabe San Francisco, 'Austin'. 
 
-Why we decided to compare San Francisco, New York and Austin?
+Why did we decide to compare San Francisco, New York and Austin?
 Some of the key features that people look while purchasing homes are covered by these 3 iconic cities and hence we decided to compare and contrast them to derive insights to support our claim. 
 
 - SF, NY and Austin offer plethora of job opportunities ranging from Arts to Tech
@@ -52,10 +53,10 @@ Some of the key features that people look while purchasing homes are covered by 
 We wanted to determine if there is a city that will be a close match to San Francisco (no two cities can be the same), hence 
 for this assignment, we have used the following datasets to derive insightful metrics for our final claim "Which city is better for buying a Home?" 
 
-The datasets for these cities include:
-Average Home purchase price for last 8 years
-Citywise Occupation Area and their salaries
-Citywise Per sq ft prices for Home purchase
+* The datasets for these cities include:
+* Average Home purchase price for last 8 years
+* Citywise Occupation Area and their salaries
+* Citywise Per sq ft prices for Home purchase
 
 (Write up excerpts from: )
 
@@ -63,13 +64,13 @@ Citywise Per sq ft prices for Home purchase
 
 ## Audience Needs
 
-Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision a easy one. The audience wants a housing affordability comparitive analysis between popular cities having similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
+Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision an easy one. The audience wants a housing affordability comparitive analysis between popular cities having a similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
 
 ******************************************************************************************************************************
 
 ## Audience Wants
 
-San Francisco residents would ideally want to live here, but with a solution to the housing crisis. Currently there is a huge demand to supply gap in the housing market and the the prices are sky high. This wishlist is not that difficult to achieve if the government focuses on missioning more housing construction and provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower purchase prices and increased home inventory.
+San Francisco residents would ideally want to live here, but with a solution to the housing crisis. Currently, there is a huge demand to supply gap in the housing market and the prices are sky high. This wishlist is not that difficult to achieve if the government focuses on missioning more housing construction and provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower purchase prices and increased home inventory.
 
 ******************************************************************************************************************************
 
@@ -83,9 +84,9 @@ San Francisco residents would ideally want to live here, but with a solution to 
 
 ## Metrics
 
-#### The goal of these metrics are to provide insights into home affordability across the selected cities
+#### The goal of these metrics is to provide insights into home affordability across the selected cities
 
-#### Why these metrics ?
+#### Why these metrics?
 These metrics will allow us to compare and contrast home purchase prices across San Francisco, New York and Austin and also allow us to compare affordability of an individual based on their salaries with respect to how much sq ft of property they will be able to purchase in the aforementioned cities.
 
 #### Metrics:
@@ -97,7 +98,7 @@ This metric determines the percent increase or decrease in the home purchase pri
 
 #### - Difference of Price to Rent ratio against National Average
 This metric compares the price to rent ratio for all the 3 cities against the National average.
-P.S: The price to rent ratio closer to the national average indicates a buyer friendly market
+P.S: The price to rent ratio closer to the national average indicates a buyer-friendly market
 
 #### - Sq ft purchase capacity vs salaries based on occupational areas
 This indicates the sq ft. buying capacity of individuals in particular occupational areas based on their salaries for all 3 cities
@@ -115,15 +116,17 @@ When deciding to buy a home, there are so many factors that one has to consider 
 - average home purchase prices
 - ones own personal buying capacity
 
-The premise in our visualization is simple, it is comparing citywise average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city. It is also comparing the home purchase price increase trend for the last 8 years, to provide an insight of what is the price growth rate in each city to determine the affordability. To dig deep on the growth rate we are presenting the increase or decrease in percentage of the average home price.
+The premise in our visualization is simple, it is comparing citywide average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city. It is also comparing the home purchase price increase trend for the last 8 years, to provide an insight of what is the price growth rate in each city to determine the affordability. To dig deep into the growth rate we are presenting the increase or decrease in the percentage of the average home price.
 
 Read more: Buying A Home: Choosing Your Location https://www.investopedia.com/university/home/home1.asp#ixzz503znTUe5 
 Follow us: Investopedia on Facebook
-(Write up intercepts from: http://lawcenter.giffords.org/scorecard/)
+(Write up intercepts from http://lawcenter.giffords.org/scorecard/)
 
-In the "Gun Saves Lives" visualization, we can see that states with stronger law ranks or stronger law grades have a lower Gun death rate rank or number of deaths by gun.
+In the "Gun Saves Lives" visualization, we can see that states with stronger law ranks or stronger law grades have a lower Gun death rate rank or the number of deaths by gun.
+
 
 ******************************************************************************************************************************
+
 ## Rebuttal Claim - Gun Control does not have any significant impact on saving lives :gun: :skull: :no_entry_sign:
 
 In the Rebuttal visualization, we can see that stronger law ranks or law grades do not have a significant impact on lowering the Gun death rate rank or number of deaths by gun. In the viz, we see that some states despite having a high Law Grade or Law Rank have a high number of Gun death rate rank or deaths by gun.
