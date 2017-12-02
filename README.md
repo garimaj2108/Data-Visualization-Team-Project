@@ -257,16 +257,7 @@ In the fourth iteration, I have created two dashboards, one that supports my ori
 * Benefit- This makes the visual rally interestinga and applicable in the real world
 **Improvement:** 
 * Benefit-
-**Improvement:** 
-* Benefit-
-**Improvement:**  
-* Benefit-
-**Improvement:**  
-* Benefit-
-**Improvement:**  
-* Benefit-
-**Improvement:**  
-* Benefit-
+
 ******************************************************************************************************************************
 ******************************************************************************************************************************
  
