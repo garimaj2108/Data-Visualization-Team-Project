@@ -83,17 +83,25 @@ San Francisco residents would ideally want to live here, but with a solution to 
 
 ## Metrics
 
-#### The goal of these metrics are to provide insights into correlation between stricter gun laws and gun related deaths.
+#### The goal of these metrics are to provide insights into home affordability across the selected cities
 
 #### Why these metrics ?
-To successfully be able support or refute my claim on Gun control, I felt that analysis of Gun Law grades or Ranks and their respective death rates would help shed insights on the nature of relationship between Gun Control and Death Rates.
+These metrics will allow us to compare and contrast home purchase prices across San Francisco, New York and Austin and also allow us to compare affordability of an individual based on their salaries with respect to how much sq ft of property they will be able to purchase in the aforementioned cities.
 
-Metrics:
-- Statewise Gun Law Grade 
-- Statewise Gun Death Rate Rank
-- Statewise Gun Law Rank
-- Statewise Number of deaths by Gun
-- Gun Ownership Rate
+#### Metrics:
+#### - Home purchase price based on absolute values for last 8 years 
+This metric provides insight into the upward trend of home purchase prices 
+
+#### - Percent Difference in home purchase price over last 8 years
+This metric determines the percent increase or decrease in the home purchase prices across the 3 cities
+
+#### - Difference of Price to Rent ratio against National Average
+This metric compares the price to rent ratio for all the 3 cities against the National average.
+P.S: The price to rent ratio closer to the national average indicates a buyer friendly market
+
+#### - Sq ft purchase capacity vs salaries based on occupational areas
+This indicates the sq ft. buying capacity of individuals in particular occupational areas based on their salaries for all 3 cities
+
 
 ************************************************************************************************************************************************************************************************************************************************************
 
