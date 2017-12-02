@@ -1,7 +1,7 @@
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
-# *Which city is better for buying a Home?*
+# *Which city is better for buying a Home - San Francisco, New York or Austin ?*
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/New_York_NYC.jpg" width="292" height="215"/> <img src="https://c1.staticflickr.com/4/3807/14270818136_2eb320ae8d_b.jpg" width="292" height="215"/> <img src="https://c1.staticflickr.com/3/2779/4460410883_fda67dd573_b.jpg" width="292" height="215"/> 
 
 *P.S: Image is free to use*
@@ -105,14 +105,20 @@ This indicates the sq ft. buying capacity of individuals in particular occupatio
 
 ************************************************************************************************************************************************************************************************************************************************************
 
-## Original Claim - Gun Control Saves Lives :gun: :no_entry_sign: :skull:
+## Claim - Austin is the better city to buy a home as compared to San Francisco and New York!!
 
-The scale of America’s gun violence epidemic is not a surprise to anyone. 2017 brought one of the worst mass shooting in the country’s history, Las Vegas was drowned in sorrow with a mass shooting of epic proportions, with 59 people dead and 527 injured, followed by Texas church mass shooting which killed 26 people. More than 20,000 people kill themselves with a gun every year, and over one million Americans have been victims of gun violence in the past decade.
+San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide while New York is an iconic city with both dreamers and realists flocking to it and Austin is considered to be San Francisco in making. So which city should you choose to call Home?
 
-Gun violence takes a number of different forms, and so do its solutions. No one policy will stop every shooting, but what we do know is that when taken in the aggregate, strict gun laws have a significant impact on public safety. They save lives.
+When deciding to buy a home, there are so many factors that one has to consider such as:
+- job opportunities
+- average salaries
+- average home purchase prices
+- ones own personal buying capacity
 
-The premise is simple, assess every state’s gun law grades and compares those grades with the state’s most recent gun death rate. Consistently, there seems to be a powerful correlation: "States with stronger laws have fewer gun deaths per capita" while "States with weaker laws have more gun deaths". 
+The premise in our visualization is simple, it is comparing citywise average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city. It is also comparing the home purchase price increase trend for the last 8 years, to provide an insight of what is the price growth rate in each city to determine the affordability. To dig deep on the growth rate we are presenting the increase or decrease in percentage of the average home price.
 
+Read more: Buying A Home: Choosing Your Location https://www.investopedia.com/university/home/home1.asp#ixzz503znTUe5 
+Follow us: Investopedia on Facebook
 (Write up intercepts from: http://lawcenter.giffords.org/scorecard/)
 
 In the "Gun Saves Lives" visualization, we can see that states with stronger law ranks or stronger law grades have a lower Gun death rate rank or number of deaths by gun.
