@@ -160,40 +160,21 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 **What's good about this Visual:**
 
-* The visual represents price to rent ratio vs the 3 cities in question, and as we can see Price to rent ratio is almost the same for New York and San Francisco and very low for Austin 
+* The visual represents price to rent ratio for the 3 cities in question and as we can see Price to rent ratio is almost the same for New York and San Francisco and very low for Austin 
 * The Price to rent ratio metric is an important metric to answer if it's feasible to buy a house 
-* Higher the Price and rent ratio the better it is to rent a house than buying
+* Lower the Price to rent ratio the better it is to buy a house ra bther than rent
+* The visual supports the  claim mentioned in title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high 
+
 
 **What's bad about this Visual:**
 
-* How do we compare this model on a national scale 
-* The visual does not need to display the zero value 
-
+* How do we compare this Visual  on a national scale 
+* The audience cannot compare and contrast anything from this visual as it just shows staright out  statistics
 
 
 ******************************************************************************************************************************
 
 **Visual 3:** 
-
-![sheet 6](https://user-images.githubusercontent.com/25557540/33503227-ce1f6582-d697-11e7-8ebc-b4bb9c36a25d.png)
-
-
-
-**What's good about this Visual:**
-
-* This Visual has the US national average to compare these cities and as we can see all of them have above average so any of the city that an audience decides to live the quality of life would be good
-* The scale has been adjusted to adjust data to viz ratio
-* The visual supports the  claim mentioned in title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high 
-
-**What's bad about this Visual:**
-
-* This visual itself is complete but how does this is going to relate to final claim should be easy to understand for an audience 
-* The visual can be more interactive to indulge the audience 
-
-
-******************************************************************************************************************************
-
-**Visual 4:** 
 
 
 ![intermediate](https://user-images.githubusercontent.com/25557540/33509372-d5e6fd84-d6b5-11e7-9684-b880eca18ee7.png)
@@ -210,7 +191,7 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 * the Audience has to actually look at visual properly to match the salary with the square feet they can buy 
 * An audience would also like to compare and contrast the SF premium which is what is hyped today 
 
-**Visual 5:** 
+**Visual 4:** 
 
 
 <img width="800" alt="intermediate2" src="https://user-images.githubusercontent.com/25557540/33509375-dc32f03a-d6b5-11e7-93a3-f9f69e8c3da5.png">
