@@ -61,6 +61,9 @@ for this assignment, we have used the following datasets to derive insightful me
 (Write up excerpts from: )
 
 ************************************************************************************************************************************************************************************************************************************************************
+## Audience's existing mindset
+
+San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide. Those who live there constantly tout its virtues to their friends in an effort to make them jealous and it is no secret that San Francisco is one of America’s most vital cultural hubs. With so much to see and do, there is very little reason not to move to “The City”, right?
 
 ## Audience Needs
 
@@ -116,45 +119,46 @@ When deciding to buy a home, there are so many factors that one has to consider 
 - average home purchase prices
 - ones own personal buying capacity
 
-The premise in our visualization is simple, it is comparing citywide average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city. It is also comparing the home purchase price increase trend for the last 8 years, to provide an insight of what is the price growth rate in each city to determine the affordability. To dig deep into the growth rate we are presenting the increase or decrease in the percentage of the average home price.
+The premise in our storyboard is simple:
+- It is comparing citywise average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city
+- It is also comparing the home purchase price increase trend for the last 8 years, to provide an insight of what is the price growth rate in each city to determine the affordability
+- To dig deep on the growth rate we are presenting the increase or decrease in percentage of the average home prices. 
+- It is also comparing the price to rent ratio across the 3 cities, which provides details about how friendly is the buyer market
+
+The information gleaned from these visualizations will enable home buyers to make a informed decision about which city would be a suitable abode for them.
+
 
 Read more: Buying A Home: Choosing Your Location https://www.investopedia.com/university/home/home1.asp#ixzz503znTUe5 
 Follow us: Investopedia on Facebook
-(Write up intercepts from http://lawcenter.giffords.org/scorecard/)
-
-In the "Gun Saves Lives" visualization, we can see that states with stronger law ranks or stronger law grades have a lower Gun death rate rank or the number of deaths by gun.
-
+(Write up intercepts from: http://lawcenter.giffords.org/scorecard/)
 
 ******************************************************************************************************************************
 
-## Rebuttal Claim - Gun Control does not have any significant impact on saving lives :gun: :skull: :no_entry_sign:
-
-In the Rebuttal visualization, we can see that stronger law ranks or law grades do not have a significant impact on lowering the Gun death rate rank or number of deaths by gun. In the viz, we see that some states despite having a high Law Grade or Law Rank have a high number of Gun death rate rank or deaths by gun.
-Also, when we compare Gun Ownership data to Gun Death Rate, we see that there is no defined trend between those two, which clearly determines that more number of guns does not necessarily mean more deaths.
-Hence, the claim that Gun Control Saves lives is questionable in nature.
-
-******************************************************************************************************************************
 ## How I went about creating visualizations that support both the original claim and its rebuttal.
-America has been struggling with Gun Violence issue for a really long time, So when President Obama emphasized on Stricter Laws for Firearms purchase, it raised a heated debate over the country and since then there have been multiple attempts at determining whether Stricter Laws dissuade or reduce Gun Violence.
+To Buy or Where to buy is such a huge dilemma for every potential home buyer and living in San Francisco does not make it any easier. So to decide whether San Francisco is the place to be or should one move to any other iconic or upcoming cities.
 
-To present my take on this matter I followed the below steps:
-- Initially I blindly started with web search for datasets and attempted to narrow my search only to mass shootings as they were the highlight of any media discussion
-- Soon I realized that mass shooting was just a small of piece of the whole pie, and more lives were lost annually through suicides and homicides by Gun
-_ So then I decided to broaden my view and instead of focusing on mass shooting I decided to start reading articles on gun killings
-- Thus I stumbled on Gun Laws and Gun grades and after understanding the article and dataset I decided to pursue this train of thought
-- First thing I did after was to finalize my claim "Gun Saves lives" and its rebuttal "Insignificant impact of Gun Control on saving Lives"
-- Reading various articles on Gun Control and Gun Save Lives helped me understand the data better
-- Then I collected datasets, a lot of them were referenced in the articles that I was reading
-- Next I deep dived into data, and understood what the data was trying to represent
-- Now it was time to decide the metrics that would bring forth my claims to the forefront
-- After finalizing the metrics, I started cleaning the data and exploring visualizations
-- First I created visualizations that would support my origin claim "Guns Saves Lives"
-- Then I created visualizations that would support the rebuttal claim "Insignificant impact of Gun Control on saving Lives"
-- After creating individual visualizations, I combined them based on the claim they were supporting on a dashboard
-- Next, I decided to use similar graphs to present contrasting points of view for maximum impact
-- For this, I compared and contrasted Gun Law Rank vs Gun Death Rank and Gun Law Rank vs Number of deaths by Gun for a take on whether stricter gun laws reduce gun violence or not
-- Similarly, next I compared and contrasted Gun Law Grade vs Gun Death Rank and Gun Law Grade vs Number of deaths
-- Added all the visualizations to a story and published it
+To present our take on this matter we have followed the below steps:
+- Initially we started with web search for datasets on home and rental prices
+- After analyzing the data we realized the scope is too broad and we decided to narrow it
+- After narrowing the scope and re-analyzing the dataset we narrowed our focus to couple of parameters which would best be able to support our claim
+- Then we started to create visualizations, which helped us to analyze and understand the behavior of the real estate market in these cities
+- First we created the home purchase price trend chart, which helped us analyze the absolute price growth in SF, NY and Austin
+- From the first visualization, we were able to determine that San Francisco behaves extremely difefrent from New York and Austin as the home value increases exponentially from the year 2012 onwards.
+- Second we created Price to Rent ratio, this ratio is determined by dividing home price to rent price, which depicts the fact that if the ratio is low then it is a buyer friendly market
+- Third we created a Salary to Expense ratio and mapped it against occupational areas for each city
+- But we decided to discard this visualization because the salary to expense ratio had very little difference in their values across the cities
+- The main reason for this was because even though people were earning more say in SF they were spending more too
+- Hence this visualization was not providing an insight to clearly determine a claim
+- Because this metric wasn't providing valid compare and contrast, we decided to include the city future growth rate and use this visualization as a warrant
+- After revisiting the first two visualizations, in the first viz we realized that we needed to also show year on year percentage difference in the growth rate to determine the home purchase price growth rate trend compared to the past years
+- In the second viz, we compared the price to rent ratio of each city against the national average to add a layer of depth on the friendliness of the buyer market
+- Next we wanted to add more parameters that would help our claim shine through, so we decided to map the sq ft area of different households to the total home purchase price
+- This metric helped us determine that to afford a single household in SF requires to pay more than double the value of the households in Austin and New York
+- Next we decided to compare the annual salary pay against the sq ft
+- This allowed us to determine the sq ft a person acan buy with the given annual salary
+
+#### After analyzing all these metrics in the visualization on a storyboard, we came to the conclusion that "Austin is the better city to buy a home as compared to San Francisco and New York!!"
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
