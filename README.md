@@ -251,16 +251,68 @@ In the fourth iteration, I have created two dashboards, one that supports my ori
 
 ## Road map for future 
 
-
+**Improvement:** Growth rate per job for all categories instead of single growth rate city wide 
+* Benefit- This would help the audience  analyze cities on a much realistic scale 
+**Improvement:** Include the tax rates and mortagage values data 
+* Benefit- This makes the visual rally interestinga and applicable in the real world
+**Improvement:** 
+* Benefit-
+**Improvement:** 
+* Benefit-
+**Improvement:**  
+* Benefit-
+**Improvement:**  
+* Benefit-
+**Improvement:**  
+* Benefit-
+**Improvement:**  
+* Benefit-
 ******************************************************************************************************************************
 ******************************************************************************************************************************
  
 ## References: 
 
-https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration3-1/Dashboard4?publish=yes
-https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration3-2/Dashboard5?publish=yes
-https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration3-3/Dashboard6?publish=yes
-https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration3-4/Dashboard7?publish=yes
+**Rent or buy a home:**
+
+* https://www.zillow.com/research/data/#rental-data
+* https://public.tableau.com/profile/guillevin#!/vizhome/IRONVIZ-TheHousingMarketRollercoaster/THEHOUSINGMARKETROLLERCOASTER
+* https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html
+* https://public.tableau.com/en-us/s/gallery/housing-market-rollercoaster?gallery=votd
+
+**Article - Why houses are costly in CA??:**
+
+* http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.aspx
+
+* http://www.lao.ca.gov/Media/infographics/californias-high-housing-costs/californias-high-housing-costs.png
+
+
+**EMPLOYMENT INFORMATION:**
+
+* https://www.bls.gov/regions/new-york-new-jersey/data/xg-tables/ro2xgcesnyc.htm
+
+* https://www.bls.gov/regions/new-york-new-jersey/new_york.htm
+
+**Rent information for Various Cities in US (Both for 1 and 2 bedroom aptartments):**
+
+* https://www.zumper.com/blog/2016/04/zumper-national-rent-report-april-2016/
+
+
+**Quarterly report of Employment and wages - Labour Department:**
+
+* https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=14&year=2016&size=0,1,2,3,4,5,6,7,8,9&hlind=10&supp=1
+* https://data.bls.gov/timeseries/LASST060000000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+* https://data.bls.gov/timeseries/LASST360000000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+
+**New York City Salary Info:**
+
+* https://labor.ny.gov/stats/lswage2.asp
+
+**Austin County Wages Info:**
+
+* http://livingwage.mit.edu/counties/48015
+
+
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
