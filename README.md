@@ -191,9 +191,9 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 * the Audience has to actually look at visual properly to match the salary with the square feet they can buy 
 * An audience would also like to compare and contrast the SF premium which is what is hyped today 
 
+******************************************************************************************************************************
+
 **Visual 4:** 
-
-
 <img width="800" alt="intermediate2" src="https://user-images.githubusercontent.com/25557540/33509375-dc32f03a-d6b5-11e7-93a3-f9f69e8c3da5.png">
 
 **What's good about this Visual:**
@@ -207,6 +207,23 @@ _ So then I decided to broaden my view and instead of focusing on mass shooting 
 
 * The axis doesn't make sense, it should be inverted to better represents the findings 
 * The zero axis doesn't make sense here as well
+
+******************************************************************************************************************************
+
+**Visual 5:** 
+<img width="800" alt="growth_rate" src="https://user-images.githubusercontent.com/25557540/33510559-32b66c32-d6c2-11e7-8319-fcb1b3db1f60.png">
+
+
+
+**What's good about this Visual:**
+
+* This visual shows the growth rate for the three cities as how they changed over time 
+* The city Austin shows a promising trend as it continuse to grow whereas the new york and san franscio are becoming stagnant 
+* This visual is made with respect to data vs pixel ratio
+
+**What's bad about this Visual:**
+
+* The reason this is not an important metric is beacuse the growth rate is for city as whole; not different jobs categories so it does not make sense to include this 
 
 
 ******************************************************************************************************************************
